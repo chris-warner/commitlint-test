@@ -20,3 +20,4 @@ npx --no-install commitlint --edit
 npx --no-install commitlint --edit 
 npx --no-install commitlint --edit 
 npx --no-install commitlint --edit 
+npx --no-install commitlint --edit 
