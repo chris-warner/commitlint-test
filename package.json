@@ -1,16 +1,18 @@
 {
   "name": "commitlint-test",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "index.js",
   "repository": "https://github.com/chris-warner/commitlint-test.git",
   "author": "Christopher Warner <cwarner@concentrichx.com>",
   "license": "MIT",
   "scripts": {
-    "setup": "yarn && ./setup.sh"
+    "setup": "yarn && ./setup.sh",
+    "release": "standard-version"
   },
   "devDependencies": {
     "@commitlint/cli": "^17.6.7",
     "@commitlint/config-conventional": "^17.6.7",
-    "husky": "^8.0.3"
+    "husky": "^8.0.3",
+    "standard-version": "^9.5.0"
   }
 }
