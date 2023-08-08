@@ -5,6 +5,9 @@
   "repository": "https://github.com/chris-warner/commitlint-test.git",
   "author": "Christopher Warner <cwarner@concentrichx.com>",
   "license": "MIT",
+  "scripts": {
+    "setup": "yarn && ./setup.sh"
+  },
   "devDependencies": {
     "@commitlint/cli": "^17.6.7",
     "@commitlint/config-conventional": "^17.6.7",
