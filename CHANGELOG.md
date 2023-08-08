@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/chris-warner/commitlint-test/compare/v1.1.0...v1.2.0) (2023-08-08)
+
+
+### Features
+
+* add standard-version package ([cc9bfa0](https://github.com/chris-warner/commitlint-test/commit/cc9bfa04f1c85b9873789646baccfc2132c0e245))
+
 ## 1.1.0 (2023-08-08)
 
 
