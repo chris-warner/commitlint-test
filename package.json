@@ -1,0 +1,13 @@
+{
+  "name": "commitlint-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/chris-warner/commitlint-test.git",
+  "author": "Christopher Warner <cwarner@concentrichx.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@commitlint/cli": "^17.6.7",
+    "@commitlint/config-conventional": "^17.6.7",
+    "husky": "^8.0.3"
+  }
+}
