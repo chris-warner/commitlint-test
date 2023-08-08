@@ -7,7 +7,7 @@
   "license": "MIT",
   "scripts": {
     "setup": "yarn && ./setup.sh",
-    "release": "standard-version"
+    "release": "standard-version && git push --follow-tags"
   },
   "devDependencies": {
     "@commitlint/cli": "^17.6.7",
