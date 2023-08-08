@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/chris-warner/commitlint-test/compare/v1.2.0...v1.3.0) (2023-08-08)
+
+
+### Features
+
+* update release script ([069dc71](https://github.com/chris-warner/commitlint-test/commit/069dc719bca96d845b9362cb10033b585fe3a15a))
+
 ## [1.2.0](https://github.com/chris-warner/commitlint-test/compare/v1.1.0...v1.2.0) (2023-08-08)
 
 
